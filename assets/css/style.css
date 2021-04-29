@@ -1,0 +1,26 @@
+.pbm-headline{
+	color:white!important;
+	background:#050505!important;
+	padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+.pbm-image{
+	max-width:76px!important
+}
+.pbm-small{
+	color:white!important;
+	background:#050505!important;
+	padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+	font-size:13px;
+}
+.pbm-link{
+	color:white;
+	font-weight:600;
+	text-decoration:underline
+}
+.pbm-link:focus {
+	color:#0274BE!important
+}
