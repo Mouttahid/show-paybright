@@ -15,6 +15,8 @@
 A plugin to help users, that are integrating PayBright into their website, to show the amount the client is going to pay for each payment (4 payments) .
 * showing a little bar under product price, in single product page.
 * showing a little bar for info in the minicart.
+* showing a little bar in the cart page after taxes (with dynamic price depending on the overall amount).
+* only visible if total order (taxes included) >= 200
 
 ## Installation ##
 INSTALL FROM WITHIN WORDPRESS
