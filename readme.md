@@ -8,7 +8,7 @@
 * License: gpl
 * License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-##A plugin to help users, that are integrating PayBright into their website, to show the amount the client is going to pay for each payment (4 payments) .##
+### A plugin to help users, that are integrating PayBright into their website, to show the amount the client is going to pay for each payment (4 payments) . ###
  
 
 ## Description ##
