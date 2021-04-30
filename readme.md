@@ -1,6 +1,7 @@
 # Show PayBright MDP #
 * Contributors: Mouttahid
 * Tags: Woocommerce,PayBright,Customization
+* Github Link: https://github.com/Mouttahid/show-paybright
 * Requires at least: 5.4
 * Tested up to: 5.7.1
 * Requires PHP: 7.2
